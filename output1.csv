@@ -1,0 +1,14 @@
+Image_Name,User_ID,Image_Match,Genuine_Fraud
+00102001.png,1,Im_Match,Genuine
+00304003.png,3,Im_Match,Genuine
+00401004.png,4,Im_Match,Genuine
+00403004.png,4,Im_Match,Genuine
+00504005.png,5,Im_Match,Genuine
+01001010.png,10,Im_Match,Genuine
+01004010.png,10,Im_Match,Genuine
+02100001.png,1,Im_Match,Forged
+02100010.png,10,Im_Match,Forged
+02101006.png,6,Im_Match,Forged
+02103003.png,3,Im_Match,Genuine
+02103010.png,10,Im_Match,Forged
+02104005.png,5,Im_Match,Genuine
