@@ -42,4 +42,4 @@ Final Output : Giving 2 scores
 Image Matching : If both the images are of the same user
 FraudDetection : If images are fraud or genuine 
 
-Accuracy obtained : 83% (Average of 4 Samples)
+Accuracy obtained : 83% (Average of 13 Samples)
